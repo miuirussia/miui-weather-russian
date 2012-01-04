@@ -83,10 +83,10 @@
     <string name="tip_weather_info_error">Нет данных</string>
     <string name="report_send">Отправить</string>
     <string name="report_exit">Отмена</string>
-    <string name="to">转</string>
-    <string name="year">年</string>
-    <string name="month">月</string>
-    <string name="day">日</string>
+    <string name="to">转</string> <!-- Не переводите этот пункт -->
+    <string name="year">年</string> <!-- Не переводите этот пункт -->
+    <string name="month">月</string> <!-- Не переводите этот пункт -->
+    <string name="day">日</string> <!-- Не переводите этот пункт -->
     <string name="format_date_wmd">dd.MM.yyyy</string>
     <string name="format_date_md">dd/MM kk:mm</string>
     <string name="temp">℃</string>
