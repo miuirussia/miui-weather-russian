@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="app_w_1x4">Погода 1x4</string>
+    <string name="app_w_1x4_color">Погода 1x4</string>
+    <string name="app_w_2x4">Погода 2x4</string>
+    <string name="app_ok">OK</string>
+    <string name="app_exit">Выход</string>
+    <string name="app_del">Удалить</string>
+    <string name="app_on">Вкл</string>
+    <string name="app_off">Выкл</string>
+    <string name="app_def_city">Москва</string>
+    <string name="app_upgradeTitle">Обновление</string>
+    <string name="app_upgradeDetail">"1. Исправления с неточностью позиционирования
+2. Исправления работы"</string>
+    <string name="app_upgradeYes">Обновить</string>
+    <string name="app_upgradeNo">Позже</string>
+    <string name="app_upgradeDownloading">Скачивание</string>
+    <string name="app_upgradeFailed">Ошибка, попробуйте снова</string>
+    <string name="app_about_1">v1.5.2</string>
+    <string name="app_about_2">"Copyright © 2011 miui.com, Все права защищены
+Адаптация на русский: KOJAN Development Group
+Сервер погоды: weather.com
+Парсер погоды: miuirussia.com"</string>
+    <string name="app_weather_friend_1">Уведомление</string>
+    <string name="app_weather_friend_2">Уведомление о дожде, снеге, температуре при их критическом значении</string>
+    <string name="app_weather_friend_title_1">Отправить друзьям</string>
+    <string name="app_weather_friend_title_2">Погода сегодня будет передана через SMS</string>
+    <string name="app_weather_friend_btn">Добавить контакт</string>
+    <string name="app_weather_friend_delete_title">Удалить контакт</string>
+    <string name="app_love_title">Оповощение семьи</string>
+    <string name="app_love_send_title">Отправить...</string>
+    <string name="app_love_add_btn">Добавить</string>
+    <string name="app_love_sms_title">Содержание сообщения</string>
+    <string name="app_love_view_title">Предпросмотр</string>
+    <string name="app_love_next_btn">Далее</string>
+    <string name="app_love_back_btn">Назад</string>
+    <string name="app_love_font_lng">%s</string>
+    <string name="app_nohave_net">Нет сетевого подключения</string>
+    <string name="app_unquiet_net">Ошибка подключения</string>
+    <string name="app_no_sktq">Ошибка</string>
+    <string name="widget_loading">Загрузка...</string>
+    <string name="act_find_city_hot_title">Популярные города</string>
+    <string name="act_find_city_title">Добавить местоположение</string>
+    <string name="act_find_city_null_data" />
+    <string name="act_find_city_hint">Поиск города</string>
+    <string name="act_set_city_title">Местоположение</string>
+    <string name="act_set_city_find_side_on">Включить</string>
+    <string name="act_set_city_find_side">Позиционирование...</string>
+    <string name="act_set_city_find_side_error">Не найдено</string>
+    <string name="act_set_city_delete_title">Удалить</string>
+    <string name="act_set_city_delete_city">Вы хотитете удалить %s？</string>
+    <string name="act_weather_main_net_error">Ошибка сети, попробуйте еще раз</string>
+    <string name="act_weather_main_data_null">"Нет данных
+Нажмите кнопку Обновить"</string>
+    <string name="act_weather_cycle_add_city">Добавить город</string>
+    <string name="act_weather_cycle_update">Обновление...</string>
+    <string name="act_weather_update_time">Обн.: %s</string>
+    <string name="act_weather_cycle_offreport">Нет</string>
+    <string name="act_weather_range_title">Ближайшие</string>
+    <string name="act_weather_range_select">Пожалуйста, выберите место</string>
+    <string name="menu_cycle">Погода</string>
+    <string name="menu_detail">Подробнее</string>
+    <string name="menu_range">Города</string>
+    <string name="menu_new">Местоположение</string>
+    <string name="menu_reload">Обновить</string>
+    <string name="menu_report_on">Напоминание</string>
+    <string name="menu_report_off">Выключить напоминание</string>
+    <string name="menu_sms">Отправить сообщение</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_set">Задать</string>
+    <string name="send_weather_sms_cycle" formatted="false">"%s
+Погода：%s"</string>
+    <string name="send_weather_sms_main" formatted="false">%s %s,%s %s %s</string>
+    <string name="send_weather_sms_error">Нет информации о погоде</string>
+    <string name="tip_weather_help_on">Утром будет предложено обновить погоду</string>
+    <string name="tip_weather_help_off">Выключить оповещения о погоде</string>
+    <string name="tip_weather">Погода</string>
+    <string name="tip_weather_info_title_1" formatted="false">%s今天预计昼夜温差%d度</string>
+    <string name="tip_weather_info_content_1">外出注意加减衣服噢。</string>
+    <string name="tip_weather_info_title_2" formatted="false">%s今天预计有%s</string>
+    <string name="tip_weather_info_content_2">如果外出请注意噢。</string>
+    <string name="tip_weather_info_error">Нет данных</string>
+    <string name="report_send">Отправить</string>
+    <string name="report_exit">Отмена</string>
+    <string name="to">转</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="format_date_wmd">dd.MM.yyyy</string>
+    <string name="format_date_md">dd/MM kk:mm</string>
+    <string name="temp">℃</string>
+    <string name="temp_flag">°</string>
+</resources>
